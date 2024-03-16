@@ -45,6 +45,6 @@ El sistema está basado en interrupciones, una para marcha/paro del sistema y ot
 Datos extra
 -
 
-Se adjuntan manuales de la placa Curiosity y del PIC.
+Se adjuntan manuales de la placa Curiosity, del PIC, del Sensor de barrera SX-4070, del regulador LM78L05 y del amplificador L293 en la carpeta manuales.
 
 El proyecto se realizó en varias fases, se adjuntan pdfs con la descrición de los objetivos y los programas de cada parte en la carpeta apartados.
