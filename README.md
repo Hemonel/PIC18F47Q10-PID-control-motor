@@ -18,7 +18,13 @@ Componentes:
 - Condensador de 100 nF
 - Fuente de alimentación de tensión entre 8 a 12 V
 
-Funcionamiento
+Esquema eléctrico
+-
+
+![esquema montaje](https://github.com/Hemonel/PIC18F47Q10-PID-control-motor/assets/153218898/a6d788b1-af94-4dec-90f0-481ce6c95623)
+
+
+Funcionamiento del PIC
 -
 
 El sistema está basado en interrupciones, una para marcha/paro del sistema y otra para lectura de la velocidad actual y cálculo de nueva velocidad.
