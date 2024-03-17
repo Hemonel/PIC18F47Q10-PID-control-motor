@@ -17,6 +17,7 @@ Componentes:
 - Potenciometro de 10k ohmios
 - Condensador de 100 nF
 - Fuente de alimentación de tensión entre 8 a 12 V
+- Programa MPLAB IDE
 
 Esquema eléctrico
 -
