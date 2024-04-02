@@ -5,6 +5,8 @@ El objetivo de este proyecto es realizar un programa que segule la velocidad de 
 
 El proyecto se realizó para la asignatura de Laboratorio de sistemas dixitais programables del 4º curso del Grado en Ingeniería en Electrónica Industrial y Automática.
 
+![Conexión PIC](https://github.com/Hemonel/PIC18F47Q10-PID-control-motor/assets/153218898/1eb70807-c66e-440c-b288-1c1596e6b61d)
+
 Componentes:
 -
 - Placa Curiosity High Pin Count (contiene un PIC18F47Q10 de Micrchip)
